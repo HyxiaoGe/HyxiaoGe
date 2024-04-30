@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="margin: 200px;">
-  <p align="right">
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats">
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact" />
-    </a> -->
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyxiaoGe&hide=javascript,css,html,php,freemarker,scss,stylus&show_icons=true&layout=compact" />
     </a>
