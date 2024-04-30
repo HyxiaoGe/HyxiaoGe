@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="margin: 200%;">
+<div style="margin: 200px;">
   <p align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact" />
