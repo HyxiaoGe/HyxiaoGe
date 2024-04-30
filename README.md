@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="right">
+<!-- <div align="right"> </div> -->
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=HyxiaoGe&hide=javascript,css,html,php,freemarker,scss,stylus&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
