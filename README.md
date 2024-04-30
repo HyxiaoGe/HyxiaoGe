@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - less game, more study.
-
+- Stay hungry, stay foolish.
 <!--
 **HyxiaoGe/HyxiaoGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
