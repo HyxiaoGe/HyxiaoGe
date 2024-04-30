@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub. 👋
 
 - cut your losses.
 - less play, more study.
