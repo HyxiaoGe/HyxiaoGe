@@ -18,22 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table width="100%">
-  <tr>
-    <!-- 第一列：占位空白 -->
-    <td width="50%"></td>
-    
-    <!-- 第二列：包含两个 GitHub 统计卡片的列 -->
-    <td width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact" />
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HyxiaoGe&hide=javascript,css,html,php,freemarker,scss,stylus&show_icons=true&layout=compact" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyxiaoGe&hide=javascript,css,html,php,freemarker,scss,stylus&show_icons=true&layout=compact" />
+  </a>
+</p>
 
 
 <!-- <div align="right"> </div> 
