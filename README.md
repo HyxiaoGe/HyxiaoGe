@@ -4,6 +4,7 @@ Personal Motto
 - cut your losses.
 - less play, more study.
 - Stay hungry, stay foolish.
+- One week is two percent of a year.
 <!--
 **HyxiaoGe/HyxiaoGe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
