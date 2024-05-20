@@ -1,6 +1,5 @@
 ### Hi there, Welcome to my GitHub. 👋
 
-Personal Motto
 - cut your losses.
 - less play, more study.
 - Stay hungry, stay foolish.
