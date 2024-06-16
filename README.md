@@ -1,6 +1,7 @@
 ### Hi there, Welcome to my GitHub. 👋
 
 - cut your losses.
+- Careful, Patient, Persistent.
 - less play, more study.
 - Stay hungry, stay foolish.
 - One week is two percent of a year.
