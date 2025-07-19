@@ -29,9 +29,6 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-
-## 🐍 GitHub 活动动画
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HyxiaoGe/HyxiaoGe/blob/gh-pages/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/HyxiaoGe/HyxiaoGe/blob/gh-pages/github-contribution-grid-snake.svg">
