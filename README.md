@@ -28,3 +28,11 @@ Here are some ideas to get you started:
       <img align="right"  src="https://github-readme-stats-nine-rouge-81.vercel.app/api?username=HyxiaoGe&show_icons=true&include_all_commits=true&layout=compact&count_private=true"/>
     </a>
   </p>
+
+
+## 🐍 GitHub 活动动画
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HyxiaoGe/HyxiaoGe/blob/gh-pages/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/HyxiaoGe/HyxiaoGe/blob/gh-pages/github-snake.svg" />
+</picture>
