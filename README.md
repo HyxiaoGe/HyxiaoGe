@@ -22,21 +22,13 @@
 | **WatchMend** | 面向自托管服务器的轻量巡检与告警：确定性规则发现问题，可选 LLM 辅助诊断 | [查看项目](https://github.com/HyxiaoGe/watchmend) |
 | **Auth Service** | 为多个独立应用提供 OAuth、邮箱验证码、PKCE、JWT / JWKS 与跨应用 SSO | [API 文档](https://auth.seanfield.org/docs) · [查看项目](https://github.com/HyxiaoGe/auth-service) |
 
-## 我如何构建
+## 产品方法
 
-```text
-想法与真实问题
-    ↓
-产品交互与 Agent 工作流
-    ↓
-前端 · API · 数据 · 异步任务
-    ↓
-部署 · 可观测 · 成本与可靠性
-    ↓
-用户反馈与下一轮迭代
-```
+- **先解决真实问题**：不为 Agent 而 Agent，先找到值得自动化、增强或重新设计的用户任务
+- **让模型做擅长的事**：用 LLM 处理理解、判断与表达，用确定性系统守住权限、状态和可靠性边界
+- **对完整体验负责**：一个人覆盖产品、交互、工程与运维，让原型最终成为长期可用的线上产品
 
-常用技术包括 **TypeScript、React、Next.js、Python、FastAPI、Go、PostgreSQL、Redis、Docker**，以及多模型 LLM / ASR 接入与自托管基础设施。
+主要使用 **TypeScript、React、Next.js、Python、FastAPI、Go、PostgreSQL、Redis、Docker**，并持续探索多模型 LLM / ASR、工具调用与自托管基础设施。
 
 > Execution beats perfection. Careful, patient, persistent.
 
