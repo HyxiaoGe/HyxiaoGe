@@ -9,7 +9,7 @@
 ## 我在做什么
 
 - **Agent 产品工程**：模型接入、工具调用、上下文管理、工作流编排与安全边界
-- **全栈产品交付**：从 Next.js / React 交互到 Python / Go 服务、认证、数据与异步任务
+- **全栈产品交付**：从 Next.js / React 交互到 Python / Java 服务、认证、数据与异步任务
 - **生产系统建设**：Docker、CI/CD、监控告警、成本治理与自托管基础设施
 - **独立产品迭代**：从真实问题出发，快速上线，用反馈持续打磨
 
@@ -28,7 +28,7 @@
 - **让模型做擅长的事**：用 LLM 处理理解、判断与表达，用确定性系统守住权限、状态和可靠性边界
 - **对完整体验负责**：一个人覆盖产品、交互、工程与运维，让原型最终成为长期可用的线上产品
 
-主要使用 **TypeScript、React、Next.js、Python、FastAPI、Go、PostgreSQL、Redis、Docker**，并持续探索多模型 LLM / ASR、工具调用与自托管基础设施。
+主要使用 **TypeScript、React、Next.js、Python、FastAPI、Java、PostgreSQL、Redis、Docker**，并持续探索多模型 LLM / ASR、工具调用与自托管基础设施。
 
 > Execution beats perfection. Careful, patient, persistent.
 
