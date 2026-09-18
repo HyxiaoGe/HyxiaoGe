@@ -17,7 +17,7 @@
 
 | 产品 | 解决什么问题 | 代码与体验 |
 | --- | --- | --- |
-| **Fusion** | 多模型 AI 工作台，支持对话、文件处理、向量检索与桌面端体验 | [在线体验](https://fusion.seanfield.org/) · [Web / Desktop](https://github.com/HyxiaoGe/fusion-ui) · [API](https://github.com/HyxiaoGe/fusion-api) |
+| **Fusion** | 多模型 AI 工作台，支持对话、文件处理、向量检索与桌面端体验 | [在线体验](https://fusion.seanfield.org/) · [查看项目](https://github.com/HyxiaoGe/fusion) |
 | **AI 音视频助手** | 将上传文件和 YouTube 内容转写为结构化摘要，并提供实时任务进度 | [在线体验](https://audio.seanfield.org/) · [前端](https://github.com/HyxiaoGe/ai-audio-assistant-ui) · [后端](https://github.com/HyxiaoGe/ai-audio-assistant-web) |
 | **WatchMend** | 面向自托管服务器的轻量巡检与告警：确定性规则发现问题，可选 LLM 辅助诊断 | [查看项目](https://github.com/HyxiaoGe/watchmend) |
 | **Auth Service** | 为多个独立应用提供 OAuth、邮箱验证码、PKCE、JWT / JWKS 与跨应用 SSO | [API 文档](https://auth.seanfield.org/docs) · [查看项目](https://github.com/HyxiaoGe/auth-service) |
